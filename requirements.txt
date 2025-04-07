@@ -63,7 +63,7 @@ pyparsing==3.2.3
 PySocks==1.7.1
 python-dateutil==2.9.0.post0
 pytz==2024.1
-pywin32==306
+pywin32==307
 PyYAML==6.0.2
 pyzmq==25.1.1
 referencing==0.36.2
